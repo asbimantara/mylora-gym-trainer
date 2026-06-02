@@ -46,14 +46,14 @@ Sebagai solusi konseptual dari data di atas, **MyLoRa (My Local Jepara)** diranc
 **7. Halaman Profil & Paket Pelatih**
 <img src="docs/screenshots/07-trainer-profile.png" width="100%" alt="Profil Pelatih">
 
-**8. Memilih Paket & Booking Sesi (Member)**
-<img src="docs/screenshots/09-member-booking.png" width="100%" alt="Booking Sesi">
+**8. Pop-up Konfirmasi & Aksi Dashboard (Member)**
+<img src="docs/screenshots/09-member-popup-action.png" width="100%" alt="Pop-up Aksi">
 
-**9. Checkout Paket Latihan (Member)**
-<img src="docs/screenshots/10-member-checkout.png" width="100%" alt="Checkout Paket">
+**9. Pop-up Pusat Resolusi / Komplain (Member)**
+<img src="docs/screenshots/10-member-popup-dispute.png" width="100%" alt="Pop-up Komplain">
 
-**10. Pembayaran Online Midtrans (Member)**
-<img src="docs/screenshots/11-member-payment.png" width="100%" alt="Pembayaran Midtrans">
+**10. Pop-up Beri Ulasan & Rating (Member)**
+<img src="docs/screenshots/11-member-popup-review.png" width="100%" alt="Pop-up Ulasan">
 
 **11. Dashboard Member**
 <img src="docs/screenshots/08-member-dashboard.png" width="100%" alt="Dashboard Member">
