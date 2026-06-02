@@ -25,6 +25,12 @@ MyLoRa menghubungkan personal trainer profesional dengan member yang ingin menca
 **5. Rekomendasi Pelatih (Hasil Onboarding)**
 <img src="docs/screenshots/05-recommendation.png" width="100%" alt="Rekomendasi Pelatih">
 
+**6. Halaman Cari Trainer (Katalog)**
+<img src="docs/screenshots/06-trainer-search.png" width="100%" alt="Katalog Trainer">
+
+**7. Halaman Profil & Paket Pelatih**
+<img src="docs/screenshots/07-trainer-profile.png" width="100%" alt="Profil Pelatih">
+
 </details>
 
 
