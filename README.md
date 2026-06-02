@@ -43,6 +43,9 @@ MyLoRa menghubungkan personal trainer profesional dengan member yang ingin menca
 **11. Dashboard Member**
 <img src="docs/screenshots/08-member-dashboard.png" width="100%" alt="Dashboard Member">
 
+**12. Penjadwalan Sesi Latihan (Kalender)**
+<img src="docs/screenshots/12-member-book-session.png" width="100%" alt="Penjadwalan Sesi">
+
 </details>
 
 
