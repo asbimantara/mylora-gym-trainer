@@ -82,14 +82,14 @@ Sebagai solusi konseptual dari data di atas, **MyLoRa (My Local Jepara)** diranc
 **19. Pengaturan Ketersediaan Waktu (Pelatih)**
 <img src="docs/screenshots/19-trainer-availability.png" width="100%" alt="Ketersediaan Pelatih">
 
-**20. Konfirmasi Booking (Pelatih)**
-<img src="docs/screenshots/20-trainer-booking.png" width="100%" alt="Konfirmasi Booking">
+**20. Pop-up Laporan Sesi Latihan (Pelatih)**
+<img src="docs/screenshots/20-trainer-popup-report.png" width="100%" alt="Laporan Sesi">
 
-**21. Laporan Sesi Selesai & Upload Bukti (Pelatih)**
-<img src="docs/screenshots/21-trainer-report.png" width="100%" alt="Laporan Sesi">
+**21. Pop-up Pusat Resolusi Hak Jawab (Pelatih)**
+<img src="docs/screenshots/21-trainer-popup-dispute-reply.png" width="100%" alt="Jawab Sengketa">
 
-**22. Dompet (Wallet) & Penarikan Dana (Pelatih)**
-<img src="docs/screenshots/22-trainer-wallet.png" width="100%" alt="Wallet Pelatih">
+**22. Pop-up Status Menunggu Admin (Pelatih)**
+<img src="docs/screenshots/22-trainer-popup-dispute-status.png" width="100%" alt="Status Sengketa">
 
 **23. Dashboard Admin Utama**
 <img src="docs/screenshots/23-admin-dashboard.png" width="100%" alt="Dashboard Admin">
