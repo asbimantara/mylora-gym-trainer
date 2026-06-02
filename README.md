@@ -216,7 +216,7 @@ Siklus pengembangan (*Sprint*) dieksekusi melalui pembagian peran (*Role*) yang 
 - **Program Studi:** Teknik Informatika
 - **Universitas:** Universitas Islam Nahdlatul Ulama Jepara
 - **Mata Kuliah:** Gabungan E-Commerce & Rekayasa Perangkat Lunak
-- **Dosen Pengampu:** TEGUH TAMRIN, S.Kom., M.Kom.
+- **Dosen Pengampu:** Teguh Tamrin, S.Kom., M.Kom.
 
 ## 📄 Lisensi
 
