@@ -31,6 +31,18 @@ MyLoRa menghubungkan personal trainer profesional dengan member yang ingin menca
 **7. Halaman Profil & Paket Pelatih**
 <img src="docs/screenshots/07-trainer-profile.png" width="100%" alt="Profil Pelatih">
 
+**8. Memilih Paket & Booking Sesi (Member)**
+<img src="docs/screenshots/09-member-booking.png" width="100%" alt="Booking Sesi">
+
+**9. Checkout Paket Latihan (Member)**
+<img src="docs/screenshots/10-member-checkout.png" width="100%" alt="Checkout Paket">
+
+**10. Pembayaran Online Midtrans (Member)**
+<img src="docs/screenshots/11-member-payment.png" width="100%" alt="Pembayaran Midtrans">
+
+**11. Dashboard Member**
+<img src="docs/screenshots/08-member-dashboard.png" width="100%" alt="Dashboard Member">
+
 </details>
 
 
