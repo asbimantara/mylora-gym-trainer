@@ -4,6 +4,30 @@
 
 MyLoRa menghubungkan personal trainer profesional dengan member yang ingin mencapai tujuan fitness mereka. Dilengkapi dengan sistem booking, pembayaran online (Midtrans), escrow, dan resolusi sengketa.
 
+## 📱 App Preview
+
+<details>
+<summary><b>Klik untuk melihat tampilan aplikasi</b></summary>
+<br>
+
+**1. Halaman Beranda (Home)**
+<img src="docs/screenshots/01-home.png" width="100%" alt="Beranda MyLoRa">
+
+**2. Halaman Login**
+<img src="docs/screenshots/03-login.png" width="100%" alt="Login">
+
+**3. Halaman Register**
+<img src="docs/screenshots/02-register.png" width="100%" alt="Register">
+
+**4. Onboarding Member Baru**
+<img src="docs/screenshots/04-onboarding.png" width="100%" alt="Onboarding">
+
+**5. Rekomendasi Pelatih (Hasil Onboarding)**
+<img src="docs/screenshots/05-recommendation.png" width="100%" alt="Rekomendasi Pelatih">
+
+</details>
+
+
 ## ✨ Fitur Utama
 
 ### 👤 Member (Customer)
