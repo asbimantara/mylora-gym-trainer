@@ -100,8 +100,11 @@ Sebagai solusi konseptual dari data di atas, **MyLoRa (My Local Jepara)** diranc
 **25. Pusat Resolusi Sengketa & QC Payout (Admin)**
 <img src="docs/screenshots/25-admin-payouts.png" width="100%" alt="Pusat Resolusi Admin">
 
-**26. Laporan Pendapatan Platform (Admin)**
-<img src="docs/screenshots/26-admin-reports.png" width="100%" alt="Laporan Pendapatan">
+**26. Verifikasi Penarikan Dana / Withdrawals (Admin)**
+<img src="docs/screenshots/26-admin-withdrawals.png" width="100%" alt="Withdrawals Admin">
+
+**27. Laporan Pendapatan Platform (Admin)**
+<img src="docs/screenshots/27-admin-reports.png" width="100%" alt="Laporan Pendapatan">
 
 </details>
 
