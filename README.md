@@ -46,53 +46,62 @@ Sebagai solusi konseptual dari data di atas, **MyLoRa (My Local Jepara)** diranc
 **7. Halaman Profil & Paket Pelatih**
 <img src="docs/screenshots/07-trainer-profile.png" width="100%" alt="Profil Pelatih">
 
-**8. Pop-up Konfirmasi & Aksi Dashboard (Member)**
-<img src="docs/screenshots/09-member-popup-action.png" width="100%" alt="Pop-up Aksi">
+**8. Memilih Paket Latihan (Member)**
+<img src="docs/screenshots/08-member-packages.png" width="100%" alt="Pilih Paket">
 
-**9. Pop-up Pusat Resolusi / Komplain (Member)**
-<img src="docs/screenshots/10-member-popup-dispute.png" width="100%" alt="Pop-up Komplain">
+**9. Checkout Paket Latihan (Member)**
+<img src="docs/screenshots/09-member-checkout.png" width="100%" alt="Checkout">
 
-**10. Pop-up Beri Ulasan & Rating (Member)**
-<img src="docs/screenshots/11-member-popup-review.png" width="100%" alt="Pop-up Ulasan">
+**10. Pembayaran Online Midtrans (Member)**
+<img src="docs/screenshots/10-member-payment.png" width="100%" alt="Pembayaran Midtrans">
 
 **11. Dashboard Member**
-<img src="docs/screenshots/08-member-dashboard.png" width="100%" alt="Dashboard Member">
+<img src="docs/screenshots/11-member-dashboard.png" width="100%" alt="Dashboard Member">
 
 **12. Penjadwalan Sesi Latihan (Kalender)**
 <img src="docs/screenshots/12-member-book-session.png" width="100%" alt="Penjadwalan Sesi">
 
-**13. Dashboard Pelatih (Trainer)**
-<img src="docs/screenshots/13-trainer-dashboard.png" width="100%" alt="Dashboard Pelatih">
+**13. Pop-up Konfirmasi & Aksi Dashboard (Member)**
+<img src="docs/screenshots/13-member-popup-action.png" width="100%" alt="Pop-up Aksi">
 
-**14. Pengaturan Profil Pelatih**
-<img src="docs/screenshots/14-trainer-profile.png" width="100%" alt="Profil Pelatih">
+**14. Pop-up Pusat Resolusi / Komplain (Member)**
+<img src="docs/screenshots/14-member-popup-dispute.png" width="100%" alt="Pop-up Komplain">
 
-**15. Manajemen Paket Latihan (Pelatih)**
-<img src="docs/screenshots/15-trainer-packages.png" width="100%" alt="Paket Latihan Pelatih">
+**15. Pop-up Beri Ulasan & Rating (Member)**
+<img src="docs/screenshots/15-member-popup-review.png" width="100%" alt="Pop-up Ulasan">
 
-**16. Pengaturan Ketersediaan Waktu (Pelatih)**
-<img src="docs/screenshots/16-trainer-availability.png" width="100%" alt="Ketersediaan Pelatih">
+**16. Dashboard Pelatih (Trainer)**
+<img src="docs/screenshots/16-trainer-dashboard.png" width="100%" alt="Dashboard Pelatih">
 
-**17. Konfirmasi Booking (Pelatih)**
-<img src="docs/screenshots/17-trainer-booking.png" width="100%" alt="Konfirmasi Booking">
+**17. Pengaturan Profil Pelatih**
+<img src="docs/screenshots/17-trainer-profile.png" width="100%" alt="Profil Pelatih">
 
-**18. Laporan Sesi Selesai & Upload Bukti (Pelatih)**
-<img src="docs/screenshots/18-trainer-report.png" width="100%" alt="Laporan Sesi">
+**18. Manajemen Paket Latihan (Pelatih)**
+<img src="docs/screenshots/18-trainer-packages.png" width="100%" alt="Paket Latihan Pelatih">
 
-**19. Dompet (Wallet) & Penarikan Dana (Pelatih)**
-<img src="docs/screenshots/19-trainer-wallet.png" width="100%" alt="Wallet Pelatih">
+**19. Pengaturan Ketersediaan Waktu (Pelatih)**
+<img src="docs/screenshots/19-trainer-availability.png" width="100%" alt="Ketersediaan Pelatih">
 
-**20. Dashboard Admin Utama**
-<img src="docs/screenshots/20-admin-dashboard.png" width="100%" alt="Dashboard Admin">
+**20. Konfirmasi Booking (Pelatih)**
+<img src="docs/screenshots/20-trainer-booking.png" width="100%" alt="Konfirmasi Booking">
 
-**21. Manajemen Pelatih (Admin)**
-<img src="docs/screenshots/21-admin-trainers.png" width="100%" alt="Manajemen Pelatih">
+**21. Laporan Sesi Selesai & Upload Bukti (Pelatih)**
+<img src="docs/screenshots/21-trainer-report.png" width="100%" alt="Laporan Sesi">
 
-**22. Pusat Resolusi Sengketa & QC Payout (Admin)**
-<img src="docs/screenshots/22-admin-payouts.png" width="100%" alt="Pusat Resolusi Admin">
+**22. Dompet (Wallet) & Penarikan Dana (Pelatih)**
+<img src="docs/screenshots/22-trainer-wallet.png" width="100%" alt="Wallet Pelatih">
 
-**23. Laporan Pendapatan Platform (Admin)**
-<img src="docs/screenshots/23-admin-reports.png" width="100%" alt="Laporan Pendapatan">
+**23. Dashboard Admin Utama**
+<img src="docs/screenshots/23-admin-dashboard.png" width="100%" alt="Dashboard Admin">
+
+**24. Manajemen Pelatih (Admin)**
+<img src="docs/screenshots/24-admin-trainers.png" width="100%" alt="Manajemen Pelatih">
+
+**25. Pusat Resolusi Sengketa & QC Payout (Admin)**
+<img src="docs/screenshots/25-admin-payouts.png" width="100%" alt="Pusat Resolusi Admin">
+
+**26. Laporan Pendapatan Platform (Admin)**
+<img src="docs/screenshots/26-admin-reports.png" width="100%" alt="Laporan Pendapatan">
 
 </details>
 
