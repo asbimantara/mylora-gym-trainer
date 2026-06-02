@@ -203,9 +203,12 @@ Platform mengambil **biaya layanan 10%** yang dibebankan kepada member saat chec
 ## 👨‍💻 Tim Pengembang
 
 Proyek akademik ini dikembangkan oleh:
-1. **Ahmad Surya Bimantara** (NIM: 231240001384)
-2. **Muhammad Farid** (NIM: 231240001383)
-3. **Siti Nur Ajinjah** (NIM: 231240001382)
+1. **Ahmad Surya Bimantara** (NIM: 231240001384)<br>
+   *Lead Developer & Technical Implementation* — Merancang arsitektur basis data, algoritma, dan membangun keseluruhan logika sistem aplikasi (*Full-Stack*).
+2. **Muhammad Farid** (NIM: 231240001383)<br>
+   *Project Manager & Systems Architect* — Menyusun perencanaan proyek, pemodelan struktur sistem (UML), dan memastikan proyek berjalan sesuai metodologi pengembangan.
+3. **Siti Nur Ajinjah** (NIM: 231240001382)<br>
+   *Data Researcher & Systems Analyst* — Melakukan observasi lapangan, pengumpulan data pengguna, serta merumuskan spesifikasi dan *Requirement Engineering* perangkat lunak.
 
 - **Program Studi:** Teknik Informatika
 - **Universitas:** Universitas Islam Nahdlatul Ulama Jepara
