@@ -207,9 +207,14 @@ Proyek akademik ini dikembangkan oleh:
 2. **Muhammad Farid** (NIM: 231240001383)
 3. **Siti Nur Ajinjah** (NIM: 231240001382)
 
+- **Program Studi:** Teknik Informatika
+- **Universitas:** Universitas Islam Nahdlatul Ulama Jepara
+- **Mata Kuliah:** Gabungan E-Commerce & Rekayasa Perangkat Lunak
+- **Dosen Pengampu:** TEGUH TAMRIN, S.Kom., M.Kom.
+
 ## 📄 Lisensi
 
-Proyek ini dibuat untuk keperluan akademik/tugas akhir.
+Proyek ini dibuat secara khusus untuk memenuhi tugas gabungan mata kuliah di **Universitas Islam Nahdlatul Ulama Jepara**.
 
 ---
 
