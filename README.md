@@ -81,6 +81,21 @@ MyLoRa menghubungkan personal trainer profesional dengan member yang ingin menca
 
 </details>
 
+## 🧠 Algoritma & Konsep Sistem Utama
+
+Untuk menjawab pertanyaan teknis terkait arsitektur perangkat lunak, MyLoRa mengimplementasikan beberapa algoritma dan logika sistem berikut:
+
+1. **Heuristic Scoring Algorithm (Sistem Rekomendasi)**
+   Digunakan pada fitur *Onboarding* Member. Sistem akan mengumpulkan preferensi *user* (tujuan latihan, level pengalaman, preferensi gender pelatih) lalu melakukan iterasi komputasi bobot (*weighting*) terhadap seluruh data pelatih yang aktif. Pelatih dengan skor kecocokan (*matching score*) tertinggi akan diurutkan dan direkomendasikan secara dinamis.
+   
+2. **Interval Scheduling & Collision Detection (Sistem Penjadwalan)**
+   Sistem penjadwalan MyLoRa menggunakan logika *Time-Slot Generation* dengan pendekatan pemfilteran himpunan (*Set Difference*). Saat Member memilih tanggal, sistem membangun daftar slot waktu berdasarkan ketersediaan (*availability*) mingguan pelatih, lalu melakukan deteksi bentrok (*collision detection*) dengan query database (`WHERE BETWEEN`) untuk menghapus slot yang sudah di-*booking* oleh member lain.
+
+3. **Deterministic Finite Automaton / DFA (Siklus Transaksi)**
+   Seluruh *booking* dikelola menggunakan konsep *State Machine* (Mesin Status) yang ketat. Transaksi memiliki alur transisi mutlak: `pending` → `confirmed` → `waiting_confirmation` (atau `disputed`) → `completed`. Status tidak bisa melompati tahapan tanpa validasi otorisasi ganda (dari member maupun pelatih).
+
+4. **Escrow System Logic (Pusat Resolusi Dana)**
+   Sistem keamanan dana menggunakan logika Rekening Bersama (*Escrow*). Saat member membayar, dana ditahan di *Platform Wallet* (Midtrans). Dana baru akan dialokasikan (`increment()`) ke tabel `wallet_balance` pelatih hanya jika terjadi salah satu dari *Trigger Event* berikut: (a) Member menekan "ACC Selesai", (b) Sistem *Auto-Complete* lewat dari 48 jam, atau (c) Admin memenangkan pelatih dalam forum Sengketa (*Dispute*).
 
 ## ✨ Fitur Utama
 
