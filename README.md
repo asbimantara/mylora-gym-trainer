@@ -46,6 +46,27 @@ MyLoRa menghubungkan personal trainer profesional dengan member yang ingin menca
 **12. Penjadwalan Sesi Latihan (Kalender)**
 <img src="docs/screenshots/12-member-book-session.png" width="100%" alt="Penjadwalan Sesi">
 
+**13. Dashboard Pelatih (Trainer)**
+<img src="docs/screenshots/13-trainer-dashboard.png" width="100%" alt="Dashboard Pelatih">
+
+**14. Pengaturan Profil Pelatih**
+<img src="docs/screenshots/14-trainer-profile.png" width="100%" alt="Profil Pelatih">
+
+**15. Manajemen Paket Latihan (Pelatih)**
+<img src="docs/screenshots/15-trainer-packages.png" width="100%" alt="Paket Latihan Pelatih">
+
+**16. Pengaturan Ketersediaan Waktu (Pelatih)**
+<img src="docs/screenshots/16-trainer-availability.png" width="100%" alt="Ketersediaan Pelatih">
+
+**17. Konfirmasi Booking (Pelatih)**
+<img src="docs/screenshots/17-trainer-booking.png" width="100%" alt="Konfirmasi Booking">
+
+**18. Laporan Sesi Selesai & Upload Bukti (Pelatih)**
+<img src="docs/screenshots/18-trainer-report.png" width="100%" alt="Laporan Sesi">
+
+**19. Dompet (Wallet) & Penarikan Dana (Pelatih)**
+<img src="docs/screenshots/19-trainer-wallet.png" width="100%" alt="Wallet Pelatih">
+
 </details>
 
 
