@@ -142,24 +142,29 @@ Untuk menjawab pertanyaan teknis terkait arsitektur perangkat lunak, MyLoRa meng
 - **Authentication:** Laravel Breeze
 - **Confirmation Dialogs:** SweetAlert2
 
-## 🚀 Instalasi
+## 🚀 Instalasi & Persiapan Data
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/mylora-gym-trainer.git
+git clone https://github.com/asbimantara/mylora-gym-trainer.git
 cd mylora-gym-trainer
 
 # Install dependencies
 composer install
+npm install && npm run build
 
-# Setup environment
+# Setup Environment
 cp .env.example .env
 php artisan key:generate
 
-# Setup database
-touch database/database.sqlite
+# Setup Database & Dummy Data
 php artisan migrate --seed
+```
 
+### 🔑 Data Akun & Simulasi (Penting untuk Demo)
+Saya telah melampirkan *file* data *dummy* lengkap yang siap Anda gunakan saat presentasi/uji coba:
+1. **[Daftar Akun Login (Admin, Member, Pelatih)](docs/akun_login.md)** 
+2. **[Data Skenario Jadwal Booking Pelatih](docs/jadwal_booking_coach.md)**
 # Create storage symlink
 php artisan storage:link
 
