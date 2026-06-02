@@ -4,6 +4,15 @@
 
 MyLoRa menghubungkan personal trainer profesional dengan member yang ingin mencapai tujuan fitness mereka. Dilengkapi dengan sistem booking, pembayaran online (Midtrans), escrow, dan resolusi sengketa.
 
+## 📖 Latar Belakang & Pendekatan Riset
+
+Aplikasi ini dikembangkan berdasarkan pendekatan riset akademik (studi kasus di Jepara) untuk mengidentifikasi dan memecahkan masalah nyata dalam ekosistem kebugaran lokal. Dari hasil observasi awal, ditemukan tiga masalah utama (*Pain Points*):
+1. **Asimetri Informasi & Visibilitas:** Masyarakat awam kesulitan mencari pelatih kebugaran yang kredibel dan bersertifikasi di daerah mereka.
+2. **Konflik Penjadwalan (Scheduling Collision):** Proses *booking* manual via WhatsApp seringkali menyebabkan bentrok jadwal antara pelatih dan klien yang berbeda.
+3. **Krisis Kepercayaan (Trust Issue):** Tidak adanya jaminan keamanan dana jika pelatih membatalkan sesi atau klien tidak hadir (*no-show*).
+
+Sebagai solusi konseptual, **MyLoRa (My Local Jepara)** dirancang sebagai *platform marketplace* dengan pendekatan *Heuristic Recommender System*, *Interval Scheduling*, dan *Escrow Wallet System* guna menciptakan ekosistem kebugaran yang transparan, aman, dan terotomatisasi.
+
 ## 📱 App Preview
 
 <details>
