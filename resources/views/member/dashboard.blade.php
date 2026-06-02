@@ -181,7 +181,7 @@
                                                 @endif
                                                 <form method="POST" action="{{ route('member.booking.confirm_done', $booking->id) }}" class="flex-fill d-flex m-0">
                                                     @csrf @method('PUT')
-                                                    <button class="btn btn-sm btn-success w-100 fw-bold shadow-sm">
+                                                    <button class="btn btn-sm btn-success w-100 fw-bold shadow-sm" data-confirm="Yakin ingin mengonfirmasi sesi ini selesai? Saldo akan diteruskan ke pelatih dan tindakan ini tidak dapat dibatalkan.">
                                                         <i class="bi bi-check2-circle me-1"></i> ACC Selesai
                                                     </button>
                                                 </form>
