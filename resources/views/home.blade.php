@@ -169,7 +169,7 @@
                 <h2 class="section-title">Kategori Spesialisasi</h2>
                 <p class="section-subtitle mx-auto">Pilih jenis latihan sesuai kebutuhan dan goals fitness kamu</p>
             </div>
-            <div class="row g-3">
+            <div class="row g-3 justify-content-center">
                 @foreach($categories as $cat)
                     <div class="col-md-4 col-6">
                         <a href="{{ route('trainers.index', ['category' => $cat->slug]) }}" class="text-decoration-none">
