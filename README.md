@@ -200,6 +200,13 @@ Semua akun di bawah ini menggunakan *password* yang sama: **`password`**
 
 Platform mengambil **biaya layanan 10%** yang dibebankan kepada member saat checkout. Trainer menerima **100% dari harga paket** yang mereka tetapkan, tanpa potongan saat penarikan dana.
 
+## 👨‍💻 Tim Pengembang
+
+Proyek akademik ini dikembangkan oleh:
+1. **Ahmad Surya Bimantara** (NIM: 231240001384)
+2. **Muhammad Farid** (NIM: 231240001383)
+3. **Siti Nur Ajinjah** (NIM: 231240001382)
+
 ## 📄 Lisensi
 
 Proyek ini dibuat untuk keperluan akademik/tugas akhir.
