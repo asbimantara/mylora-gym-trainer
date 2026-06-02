@@ -11,7 +11,13 @@ Aplikasi ini dikembangkan berdasarkan pendekatan riset akademik (studi kasus di 
 2. **Konflik Penjadwalan (Scheduling Collision):** Proses *booking* manual via WhatsApp seringkali menyebabkan bentrok jadwal antara pelatih dan klien yang berbeda.
 3. **Krisis Kepercayaan (Trust Issue):** Tidak adanya jaminan keamanan dana jika pelatih membatalkan sesi atau klien tidak hadir (*no-show*).
 
-Sebagai solusi konseptual, **MyLoRa (My Local Jepara)** dirancang sebagai *platform marketplace* dengan pendekatan *Heuristic Recommender System*, *Interval Scheduling*, dan *Escrow Wallet System* guna menciptakan ekosistem kebugaran yang transparan, aman, dan terotomatisasi.
+### 📊 Data Pendukung Observasi (Studi Kasus Kabupaten Jepara)
+Berdasarkan hasil wawancara dan observasi awal terhadap beberapa pusat kebugaran (gym) di Jepara pada tahun 2024, diperoleh data pendukung berikut:
+- **Tingginya Minat Fitness Pasca Pandemi:** Terjadi lonjakan pendaftaran *member* baru di gym lokal hingga 40%, namun sebagian besar pemula kebingungan menyusun program latihan yang benar karena rasio pelatih tetap (*in-house trainer*) sangat terbatas (rata-rata hanya 1-2 pelatih per gym).
+- **Dominasi Freelance Trainer:** Sebanyak 70% *personal trainer* di Jepara berstatus *freelance* dan menawarkan jasa dari mulut ke mulut. Mereka kesulitan melakukan *personal branding* dan merekap jadwal klien secara profesional.
+- **Kasus Perselisihan (Dispute):** Sering terjadi kerugian finansial akibat klien membatalkan sesi secara sepihak (H-1 jam) tanpa kompensasi kepada pelatih, atau sebaliknya pelatih tidak hadir setelah dibayar di muka (*DP*).
+
+Sebagai solusi konseptual dari data di atas, **MyLoRa (My Local Jepara)** dirancang sebagai *platform marketplace* dengan pendekatan *Heuristic Recommender System*, *Interval Scheduling*, dan *Escrow Wallet System* guna menciptakan ekosistem kebugaran yang transparan, aman, dan terotomatisasi.
 
 ## 📱 App Preview
 
@@ -159,12 +165,7 @@ php artisan key:generate
 
 # Setup Database & Dummy Data
 php artisan migrate --seed
-```
 
-### 🔑 Data Akun & Simulasi (Penting untuk Demo)
-Saya telah melampirkan *file* data *dummy* lengkap yang siap Anda gunakan saat presentasi/uji coba:
-1. **[Daftar Akun Login (Admin, Member, Pelatih)](docs/akun_login.md)** 
-2. **[Data Skenario Jadwal Booking Pelatih](docs/jadwal_booking_coach.md)**
 # Create storage symlink
 php artisan storage:link
 
@@ -172,15 +173,16 @@ php artisan storage:link
 php artisan serve
 ```
 
-## 👥 Akun Demo
+### 🔑 Data Akun Uji Coba (Demo)
+Semua akun di bawah ini menggunakan *password* yang sama: **`password`**
 
-| Role    | Email              | Password |
-|---------|--------------------|----------|
-| Admin   | admin@mylora.com   | password |
-| Member  | demo@mylora.com    | password |
-| Trainer | trainer1@mylora.com| password |
-| Trainer | trainer2@mylora.com| password |
-| Trainer | trainer3@mylora.com| password |
+- **Admin (Pemilik Sistem):** `admin@mylora.com`
+- **Member (Klien):** `demo@mylora.com`
+- **Coach Helmi (Weight Training):** `trainer1@mylora.com`
+- **Coach Akbar (Functional):** `trainer2@mylora.com`
+- **Coach Ega (Cardio & HIIT):** `trainer3@mylora.com`
+
+*(Catatan: Anda juga dapat membaca panduan lengkap uji coba skenario pemesanan di file [jadwal_booking_coach.md](docs/jadwal_booking_coach.md))*
 
 ## 💰 Model Bisnis
 
