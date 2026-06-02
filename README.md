@@ -67,6 +67,18 @@ MyLoRa menghubungkan personal trainer profesional dengan member yang ingin menca
 **19. Dompet (Wallet) & Penarikan Dana (Pelatih)**
 <img src="docs/screenshots/19-trainer-wallet.png" width="100%" alt="Wallet Pelatih">
 
+**20. Dashboard Admin Utama**
+<img src="docs/screenshots/20-admin-dashboard.png" width="100%" alt="Dashboard Admin">
+
+**21. Manajemen Pelatih (Admin)**
+<img src="docs/screenshots/21-admin-trainers.png" width="100%" alt="Manajemen Pelatih">
+
+**22. Pusat Resolusi Sengketa & QC Payout (Admin)**
+<img src="docs/screenshots/22-admin-payouts.png" width="100%" alt="Pusat Resolusi Admin">
+
+**23. Laporan Pendapatan Platform (Admin)**
+<img src="docs/screenshots/23-admin-reports.png" width="100%" alt="Laporan Pendapatan">
+
 </details>
 
 
