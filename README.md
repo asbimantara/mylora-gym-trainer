@@ -200,15 +200,18 @@ Semua akun di bawah ini menggunakan *password* yang sama: **`password`**
 
 Platform mengambil **biaya layanan 10%** yang dibebankan kepada member saat checkout. Trainer menerima **100% dari harga paket** yang mereka tetapkan, tanpa potongan saat penarikan dana.
 
-## 👨‍💻 Tim Pengembang
+## 👨‍💻 Tim Pengembang & Metodologi Agile
 
-Proyek akademik ini dikembangkan oleh:
-1. **Ahmad Surya Bimantara** (NIM: 231240001384)<br>
-   *Lead Developer & Technical Implementation* — Merancang arsitektur basis data, algoritma, dan membangun keseluruhan logika sistem aplikasi (*Full-Stack*).
+Proyek akademik ini dikembangkan secara tim menggunakan pendekatan **Agile Methodology** (kerangka kerja *Scrum/Iterative*). Model ini memungkinkan perangkat lunak dibangun secara cepat, adaptif terhadap perubahan, dan berorientasi penuh pada kebutuhan pengguna.
+
+Siklus pengembangan (*Sprint*) dieksekusi melalui pembagian peran (*Role*) yang saling berkesinambungan:
+
+1. **Siti Nur Ajinjah** (NIM: 231240001382)<br>
+   *Systems Analyst & Product Owner* — Berperan di hulu siklus (*Planning*). Bertanggung jawab melakukan observasi lapangan di Jepara, mengumpulkan keluhan (*pain points*) pengguna, dan mendefinisikan *Requirement Engineering* (*Product Backlog*).
 2. **Muhammad Farid** (NIM: 231240001383)<br>
-   *Project Manager & Systems Architect* — Menyusun perencanaan proyek, pemodelan struktur sistem (UML), dan memastikan proyek berjalan sesuai metodologi pengembangan.
-3. **Siti Nur Ajinjah** (NIM: 231240001382)<br>
-   *Data Researcher & Systems Analyst* — Melakukan observasi lapangan, pengumpulan data pengguna, serta merumuskan spesifikasi dan *Requirement Engineering* perangkat lunak.
+   *Systems Architect & Scrum Master* — Berperan di fase manajerial dan perancangan (*Design*). Menyusun rancang bangun arsitektur sistem (UML/Alur), mengatur *timeline* tiap fase iterasi (*Sprint*), dan memastikan proyek berjalan sesuai kaidah Rekayasa Perangkat Lunak.
+3. **Ahmad Surya Bimantara** (NIM: 231240001384)<br>
+   *Lead Developer & Technical Implementation* — Berperan di fase eksekusi (*Coding & Testing*). Bertanggung jawab merealisasikan *Product Backlog* menjadi sistem aplikasi utuh secara *Full-Stack* (Front-End & Back-End) dan memastikan integrasi logika berjalan mulus pada setiap akhir iterasi.
 
 - **Program Studi:** Teknik Informatika
 - **Universitas:** Universitas Islam Nahdlatul Ulama Jepara
