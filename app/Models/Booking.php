@@ -17,6 +17,9 @@ class Booking extends Model
         'start_time',
         'end_time',
         'status',
+        'payout_status',
+        'proof_photo_path',
+        'attendance_status',
         'notes',
     ];
 
