@@ -64,9 +64,11 @@
             transition: all 0.3s;
         }
         .btn-primary-mylora:hover {
+            background-color: #d4ff00;
+            border-color: transparent;
             transform: translateY(-2px);
-            box-shadow: 0 8px 25px rgba(204, 255, 0, 0.35);
-            color: #000;
+            box-shadow: 0 8px 25px rgba(204, 255, 0, 0.4);
+            color: #000 !important;
         }
         .btn-outline-mylora {
             border: 2px solid var(--primary);
@@ -78,8 +80,9 @@
             background: transparent;
         }
         .btn-outline-mylora:hover {
-            background: var(--primary);
-            color: #000;
+            background-color: var(--primary);
+            border-color: var(--primary);
+            color: #000 !important;
             transform: translateY(-2px);
         }
 
